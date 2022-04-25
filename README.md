@@ -1,3 +1,6 @@
 # OSSL2022_0425
 
-**Seongbin Kim**
+#Group Number
+
+#Group Members
+* Seongbin Kim
